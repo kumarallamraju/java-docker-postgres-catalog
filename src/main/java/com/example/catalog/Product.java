@@ -1,4 +1,5 @@
 
+/* Product.java */
 package com.example.catalog;
 
 import jakarta.persistence.*;
